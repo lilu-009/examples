@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Обучение\Example\Example_dog\bin\Debug\net6.0\Example_dog.exe
+C:\Users\user\Desktop\Обучение\Example\Example_dog\bin\Debug\net6.0\Example_dog.deps.json
+C:\Users\user\Desktop\Обучение\Example\Example_dog\bin\Debug\net6.0\Example_dog.runtimeconfig.json
+C:\Users\user\Desktop\Обучение\Example\Example_dog\bin\Debug\net6.0\Example_dog.dll
+C:\Users\user\Desktop\Обучение\Example\Example_dog\bin\Debug\net6.0\Example_dog.pdb
+C:\Users\user\Desktop\Обучение\Example\Example_dog\obj\Debug\net6.0\Example_dog.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Обучение\Example\Example_dog\obj\Debug\net6.0\Example_dog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Обучение\Example\Example_dog\obj\Debug\net6.0\Example_dog.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Обучение\Example\Example_dog\obj\Debug\net6.0\Example_dog.AssemblyInfo.cs
+C:\Users\user\Desktop\Обучение\Example\Example_dog\obj\Debug\net6.0\Example_dog.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Обучение\Example\Example_dog\obj\Debug\net6.0\Example_dog.dll
+C:\Users\user\Desktop\Обучение\Example\Example_dog\obj\Debug\net6.0\refint\Example_dog.dll
+C:\Users\user\Desktop\Обучение\Example\Example_dog\obj\Debug\net6.0\Example_dog.pdb
+C:\Users\user\Desktop\Обучение\Example\Example_dog\obj\Debug\net6.0\Example_dog.genruntimeconfig.cache
+C:\Users\user\Desktop\Обучение\Example\Example_dog\obj\Debug\net6.0\ref\Example_dog.dll
