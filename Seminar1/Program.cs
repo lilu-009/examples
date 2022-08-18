@@ -11,19 +11,35 @@
 //    Console.WriteLine("Первое число НЕ является квадратом второго");
 // }
 
-Console.Write("Укажите номер дня недели: ");
-int numberday = Convert.ToInt32(Console.ReadLine());
-if(numberday >=1 && numberday <= 7)
-{
-if (numberday == 1) Console.WriteLine("понедельник");
-if (numberday == 2) Console.WriteLine("вторник");
-if (numberday == 3) Console.WriteLine("среда");
-if (numberday == 4) Console.WriteLine("четверг");
-if (numberday == 5) Console.WriteLine("пятница");
-if (numberday == 6) Console.WriteLine("суббота");
-if (numberday == 7) Console.WriteLine("воскресенье");
-}
-else
-{
-  Console.Write("Такого дня недели нет");  
-}
+
+
+// Console.Write("Укажите номер дня недели: ");
+// int numberday = Convert.ToInt32(Console.ReadLine());
+// if(numberday >=1 && numberday <= 7)
+// {
+// if (numberday == 1) Console.WriteLine("понедельник");
+// else if (numberday == 2) Console.WriteLine("вторник");
+// else if (numberday == 3) Console.WriteLine("среда");
+// else if (numberday == 4) Console.WriteLine("четверг");
+// else if (numberday == 5) Console.WriteLine("пятница");
+// else if (numberday == 6) Console.WriteLine("суббота");
+// else if (numberday == 7) Console.WriteLine("воскресенье");
+// }
+// else
+// {
+//  Console.Write("Такого дня недели нет");  
+// }
+
+
+
+// Console.Write("Введите число: ");
+// int number1 = Convert.ToInt32(Console.ReadLine());
+// int number2 = -number1;
+// while(number2 <= number1)
+// {
+//    Console.Write(number2 +",");
+//    number2 ++;
+// }
+
+
+
