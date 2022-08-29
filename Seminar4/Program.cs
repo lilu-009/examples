@@ -130,21 +130,13 @@
 
 int[] array = new int[8];
 
-void FillArray(int[] array)
-{
-    for(int index = 0; index < 8; index ++)
-    {
-        array[index] = new Random().Next(0, 2);
-    }
-}
-
 void PrintArray(int[] array)
 {
     for(int index = 0; index < 8; index ++)
     {
-        Console.Write(array[index] +", ");
+        array[index] = new Random().Next(0, 2);
+        Console.Write(array[index] +" ");
     }
 }
 
-FillArray(array);
 PrintArray(array);
